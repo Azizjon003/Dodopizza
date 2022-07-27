@@ -6,5 +6,26 @@
     "mongoose": "^6.5.0",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.19"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "dodo-pizza-clone",
+  "version": "1.0.0",
+  "main": "faker.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azizjon003/Dodopizza.git"
+  },
+  "author": "",
+  "engines": {
+    "node": "16.16.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azizjon003/Dodopizza/issues"
+  },
+  "homepage": "https://github.com/Azizjon003/Dodopizza#readme",
+  "description": ""
 }
